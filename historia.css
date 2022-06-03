@@ -1,0 +1,27 @@
+body{
+color: black;
+background-color: #96c4c4;}
+
+h1 {
+   font-family: Helvetica, Geneva, Arial, SunSans-Regular, suns-Serif}
+
+
+
+header{
+
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+}
+
+.logo{
+
+	display: flex;
+	align-items: center;
+}
+
+
+.logo img {
+	height: 100px;
+	margin-right:10px ;
+}
